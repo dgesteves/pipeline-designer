@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Remove icon should have the correct svg 1`] = `
+<div>
+  <svg
+    height="1em"
+    viewBox="0 0 32 32"
+    width="1em"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M12 12h2v12h-2zM18 12h2v12h-2z"
+      style="fill: currentColor;"
+    />
+    <path
+      d="M4 6v2h2v20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8h2V6Zm4 22V8h16v20ZM12 2h8v2h-8z"
+      style="fill: currentColor;"
+    />
+    <path
+      d="M0 0h32v32H0z"
+      data-name="<Transparent Rectangle>"
+      style="fill: none;"
+    />
+  </svg>
+</div>
+`;

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Draggable icon should have the correct svg 1`] = `
+<div>
+  <svg
+    height="1em"
+    viewBox="0 0 32 32"
+    width="1em"
+    xml:space="preserve"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M10 6h4v4h-4zM18 6h4v4h-4zM10 14h4v4h-4zM18 14h4v4h-4zM10 22h4v4h-4zM18 22h4v4h-4z"
+      style="fill: currentColor;"
+    />
+    <path
+      d="M0 0h32v32H0z"
+      style="fill: none;"
+    />
+  </svg>
+</div>
+`;
