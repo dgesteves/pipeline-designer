@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Description component should match previous snapshot 1`] = `
+<article
+  aria-label="Lorem ipsum text as placeholder"
+  class="sc-bczRLJ jMhavE"
+  role="contentinfo"
+  tabindex="0"
+>
+  Lorem ipsum dolor sit amet, 
+  <span>
+    pipeline designer
+  </span>
+   consectetur adipisicing elit. Amet consequuntur cum debitis dignissimos ducimus minima obcaecati praesentium, reiciendis 
+  <span>
+    pipeline designer
+  </span>
+   saepe veritatis voluptas voluptatibus? Blanditiis ipsam iste magnam neque nulla totam!
+</article>
+`;
