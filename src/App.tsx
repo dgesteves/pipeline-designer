@@ -1,9 +1,13 @@
-import Graph from './Graph';
+import { ThemeProvider } from "styled-components";
+import GlobalStyles from "./assets/styles/globalStyles";
+import theme from "./assets/styles/theme";
+import PipelinePage from "./pages/PipelinePage";
 
-function App() {
+export default function App() {
   return (
-   <Graph/>
+    <ThemeProvider theme={theme}>
+      <GlobalStyles />
+      <PipelinePage />
+    </ThemeProvider>
   );
 }
-
-export default App;
