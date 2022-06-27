@@ -6,7 +6,7 @@ exports[`Pipeline component should match previous snapshot 1`] = `
   data-testid="pipeline-section-test"
 >
   <div
-    class="sc-gsnTZi cecFYr"
+    class="sc-gsnTZi bJBqjV"
     data-testid="node-test"
   >
     <p>
@@ -45,7 +45,7 @@ exports[`Pipeline component should match previous snapshot 1`] = `
     />
   </div>
   <div
-    class="sc-gsnTZi cecFYr"
+    class="sc-gsnTZi bJBqjV"
     data-testid="node-test"
   >
     <p>
@@ -105,7 +105,7 @@ exports[`Pipeline component should match previous snapshot 1`] = `
     />
   </div>
   <div
-    class="sc-gsnTZi cecFYr"
+    class="sc-gsnTZi bJBqjV"
     data-testid="node-test"
   >
     <p>

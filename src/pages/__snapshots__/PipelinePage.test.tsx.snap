@@ -37,7 +37,7 @@ exports[`PipelinePage shoul match previous snapshot 1`] = `
         data-testid="designer-test"
       >
         <div
-          class="sc-eCYdqJ sc-jSMfEi cfWdYx iubXOR"
+          class="sc-eCYdqJ sc-jSMfEi cfWdYx drDoMz"
           data-testid="draggable-option"
           draggable="true"
         >
@@ -62,7 +62,7 @@ exports[`PipelinePage shoul match previous snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-eCYdqJ sc-jSMfEi cfWdYx iubXOR"
+          class="sc-eCYdqJ sc-jSMfEi cfWdYx drDoMz"
           data-testid="draggable-option"
           draggable="true"
         >
@@ -92,7 +92,7 @@ exports[`PipelinePage shoul match previous snapshot 1`] = `
         data-testid="pipeline-section-test"
       >
         <div
-          class="sc-iBkjds kVwff"
+          class="sc-iBkjds hQyhsR"
           data-testid="node-test"
         >
           <p>
@@ -131,7 +131,7 @@ exports[`PipelinePage shoul match previous snapshot 1`] = `
           />
         </div>
         <div
-          class="sc-iBkjds kVwff"
+          class="sc-iBkjds hQyhsR"
           data-testid="node-test"
         >
           <p>
@@ -191,7 +191,7 @@ exports[`PipelinePage shoul match previous snapshot 1`] = `
           />
         </div>
         <div
-          class="sc-iBkjds kVwff"
+          class="sc-iBkjds hQyhsR"
           data-testid="node-test"
         >
           <p>
