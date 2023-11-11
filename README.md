@@ -70,15 +70,6 @@ matching documents to their questions. The creation of flexible Pipelines like t
 users can easily design Pipelines customized to their needs. We want to create a no-code pipeline designer for our
 complimentary platform.
 
-**What we are looking for:**
-
-1. [X] Implementation of a working solution and your coding approach.
-2. [X] How do you organize your code, styles, components etc.
-3. [X] How do you handle the application state management Architectural approach.
-4. [X] A clear, short documentation of your result.
-5. [X] NOT perfect implementation and polished details.
-6. [X] NOT using haystack, connecting to backend or deployment.
-
 ---
 
 ### Task Solution
