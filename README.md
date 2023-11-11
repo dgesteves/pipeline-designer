@@ -19,7 +19,7 @@
 https://user-images.githubusercontent.com/34245953/175841325-950c5363-36fe-4659-80fa-0efc41fde6e0.mov
 
 
-## Frontend Challenge
+## Frontend Task
 
 We would like to introduce a no-code Pipeline designer to deepset Cloud where you can connect different nodes and design
 your Pipelines. The task is to implement a web application for this pipeline designer.
